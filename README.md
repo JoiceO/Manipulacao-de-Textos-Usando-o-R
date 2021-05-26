@@ -1,2 +1,1 @@
-# R_introduction
-Exercícios do curso Introdução à Manipulação de Textos Usando o R @UFJF
+Aula 01: variáveis, funções, vetores e dataframes<br>
